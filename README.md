@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel Fuenzalida
 
-<!--
-**Fuenzalida97/Fuenzalida97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador Full Stack** con formación en **Ingeniería en Informática** y una sólida base en el desarrollo web. Me especializo en la creación de aplicaciones escalables y funcionales utilizando tecnologías modernas del ecosistema **JavaScript/TypeScript**, incluyendo **React**, **Node.js**, **NestJS** y **PostgreSQL**.
 
-Here are some ideas to get you started:
+A lo largo de mi carrera, he adquirido experiencia trabajando tanto en el **front-end** como en el **back-end**, desarrollando APIs RESTful, gestionando bases de datos, implementando autenticación segura y desplegando aplicaciones con herramientas como **Docker**. Mi enfoque siempre está en la calidad del código, la seguridad y el aprendizaje continuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mis Intereses y Competencias
+
+- Desarrollo de aplicaciones web escalables y seguras.
+- Diseño de arquitecturas backend con **Node.js** y **NestJS**.
+- Manejo de bases de datos relacionales y no relacionales (**MySQL**, **PostgreSQL**, **MongoDB**).
+- Implementación de **autenticación JWT**, validaciones y pruebas automatizadas.
+- Diseño responsivo y accesible con **React** y **CSS**.
+
+Me apasiona la tecnología y disfrutar de cada desafío que me permite mejorar mis habilidades y conocimientos. Estoy especialmente interesado en trabajar en proyectos que me permitan aprender, colaborar y crear soluciones de calidad.
+
+## 📫 Conecta conmigo
+
+- 📧 **Correo:** [miguelfuenzalida.n@gmail.com](mailto:miguelfuenzalida.n@gmail.com)
+- 🔗 **LinkedIn:** [miguel-f-40328a14b](https://www.linkedin.com/in/miguel-f-40328a14b)
+- 🌐 **GitHub:** [Fuenzalida97](https://github.com/Fuenzalida97)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀 Estoy siempre abierto a nuevas oportunidades y colaboraciones.
