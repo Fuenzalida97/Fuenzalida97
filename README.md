@@ -18,7 +18,6 @@ Me apasiona la tecnología y disfrutar de cada desafío que me permite mejorar m
 
 - 📧 **Correo:** [miguelfuenzalida.n@gmail.com](mailto:miguelfuenzalida.n@gmail.com)
 - 🔗 **LinkedIn:** [miguel-f-40328a14b](https://www.linkedin.com/in/miguel-f-40328a14b)
-- 🌐 **GitHub:** [Fuenzalida97](https://github.com/Fuenzalida97)
 
 ---
 
