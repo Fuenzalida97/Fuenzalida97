@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Miguel Fuenzalida
 
-Soy **Desarrollador Full Stack** con formación en **Ingeniería en Informática** y una sólida base en el desarrollo web. Me especializo en la creación de aplicaciones escalables y funcionales utilizando tecnologías modernas del ecosistema **JavaScript/TypeScript**, incluyendo **React**, **Node.js**, **NestJS** y **PostgreSQL**.
+Soy **Desarrollador Full Stack** con formación en **Ingeniería en Informática** y una sólida base en el desarrollo web. Me especializo en la creación de aplicaciones escalables y funcionales utilizando tecnologías modernas del ecosistema **JavaScript/TypeScript**, incluyendo **React**, **Angular**, **Node.js**, **NestJS** y **PostgreSQL**.
 
 A lo largo de mi carrera, he adquirido experiencia trabajando tanto en el **front-end** como en el **back-end**, desarrollando APIs RESTful, gestionando bases de datos, implementando autenticación segura y desplegando aplicaciones con herramientas como **Docker**. Mi enfoque siempre está en la calidad del código, la seguridad y el aprendizaje continuo.
 
