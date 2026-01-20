@@ -16,8 +16,9 @@ Me apasiona la tecnología y disfrutar de cada desafío que me permite mejorar m
 
 ## 📫 Conecta conmigo
 
+- 🔗 **Portfolio:** [Portfolio Personal](https://mfuenzalida-dev.vercel.app/)
 - 📧 **Correo:** [miguelfuenzalida.n@gmail.com](mailto:miguelfuenzalida.n@gmail.com)
-- 🔗 **LinkedIn:** [miguel-f-40328a14b](https://www.linkedin.com/in/miguel-f-40328a14b)
+- 🔗 **LinkedIn:** [Miguel Fuenzalida](https://www.linkedin.com/in/miguel-f-40328a14b)
 
 ---
 
