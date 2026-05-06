@@ -8,9 +8,9 @@ A lo largo de mi carrera, he adquirido experiencia trabajando tanto en el **fron
 
 - Desarrollo de aplicaciones web escalables y seguras.
 - Diseño de arquitecturas backend con **Node.js** y **NestJS**.
+- Diseño responsivo y accesible con **React** y **Tailwind CSS**.
 - Manejo de bases de datos relacionales y no relacionales (**MySQL**, **PostgreSQL**, **MongoDB**).
 - Implementación de **autenticación JWT**, validaciones y pruebas automatizadas.
-- Diseño responsivo y accesible con **React** y **CSS**.
 
 Me apasiona la tecnología y disfrutar de cada desafío que me permite mejorar mis habilidades y conocimientos. Estoy especialmente interesado en trabajar en proyectos que me permitan aprender, colaborar y crear soluciones de calidad.
 
