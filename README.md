@@ -1,25 +1,26 @@
 # 👋 ¡Hola! Soy Miguel Fuenzalida
 
-Soy **Desarrollador Full Stack** con formación en **Ingeniería en Informática** y una sólida base en el desarrollo web. Me especializo en la creación de aplicaciones escalables y funcionales utilizando tecnologías modernas del ecosistema **JavaScript/TypeScript**, incluyendo **React**, **Angular**, **Node.js**, **NestJS** y **PostgreSQL**.
+**Ingeniero en Informática | Full Stack Developer (TypeScript, NestJS, React)**
 
-A lo largo de mi carrera, he adquirido experiencia trabajando tanto en el **front-end** como en el **back-end**, desarrollando APIs RESTful, gestionando bases de datos, implementando autenticación segura y desplegando aplicaciones con herramientas como **Docker**. Mi enfoque siempre está en la calidad del código, la seguridad y el aprendizaje continuo.
+Me especializo en diseñar y desplegar arquitecturas modulares de extremo a extremo, destacando por un **proceso de desarrollo fluido y ágil**. Disfruto construyendo sistemas robustos donde el backend y el frontend se comunican de manera eficiente, segura y escalable.
 
-## 🚀 Mis Intereses y Competencias
+## 🚀 Lo que hago
+*   **Arquitecturas Backend:** Desarrollo de APIs RESTful y microservicios con **Node.js** y **NestJS**, implementando control de acceso (RBAC) y patrones de diseño limpios.
+*   **Frontend Dinámico:** Creación de interfaces optimizadas con **React** y **Next.js**, enfocándome en el rendimiento (Server-Side Rendering) y la experiencia de usuario.
+*   **Infraestructura & Datos:** Modelado avanzado en **PostgreSQL**, orquestación de entornos multicapa con **Docker / Docker Compose** e integración de servicios Cloud como **AWS S3**.
 
-- Desarrollo de aplicaciones web escalables y seguras.
-- Diseño de arquitecturas backend con **Node.js** y **NestJS**.
-- Diseño responsivo y accesible con **React**, **Next.js** y **Tailwind CSS**.
-- Manejo de bases de datos relacionales y no relacionales (**MySQL**, **PostgreSQL**, **MongoDB**).
-- Implementación de **autenticación JWT**, validaciones y pruebas automatizadas.
+## 💻 Proyectos Destacados
+*   **Sistema CRM para Concesionarios:** Plataforma End-to-End con Next.js y NestJS. Implementé pipelines de importación masiva con AWS S3 (URLs firmadas), paginación server-side y estricto tipado con TypeScript.
+*   **Sentia - Plataforma de Bienestar:** Arquitectura de microservicios integrando pasarelas de pago y autenticación. Calidad de código asegurada mediante pruebas unitarias con Jest.
 
-Me apasiona la tecnología y disfrutar de cada desafío que me permite mejorar mis habilidades y conocimientos. Estoy especialmente interesado en trabajar en proyectos que me permitan aprender, colaborar y crear soluciones de calidad.
+## 🛠️ Stack Tecnológico Principal
+*   **Lenguajes:** TypeScript, JavaScript, SQL
+*   **Backend:** Node.js, NestJS, Express
+*   **Frontend:** React, Next.js, Angular
+*   **Bases de Datos:** PostgreSQL, MongoDB, MySQL
+*   **DevOps & Cloud:** Docker, AWS (S3), Git, GitHub
 
 ## 📫 Conecta conmigo
-
-- 🔗 **Portfolio:** [Portfolio Personal](https://mfuenzalida-dev.vercel.app/)
+- 🔗 **Portfolio:** [mfuenzalida-dev.vercel.app](https://mfuenzalida-dev.vercel.app/)
 - 📧 **Correo:** [miguelfuenzalida.n@gmail.com](mailto:miguelfuenzalida.n@gmail.com)
 - 🔗 **LinkedIn:** [Miguel Fuenzalida](https://www.linkedin.com/in/miguel-fuenzalida/)
-
----
-
-¡Gracias por visitar mi perfil! 🚀 Estoy siempre abierto a nuevas oportunidades y colaboraciones.
